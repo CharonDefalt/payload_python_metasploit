@@ -4,9 +4,9 @@
 
 2 : Next install requreiments
 
-3 : create payload and obfuscation it and send to target 
+3 : create payload and obfuscation it 
 
-4 : build up listener with metasploit
+4 : build up listener with metasploit and send payload obfuscation to target 
 
 # Requreiments 
 
