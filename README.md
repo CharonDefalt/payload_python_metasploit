@@ -1,4 +1,4 @@
-# Create python trojan with Metasploit and bypass all antiviruses
+# Create python trojan with Metasploit and bypass all antiviruses (READ THIS AS CODE)
 
 1 : install python and metasploit or using kali linux
 
