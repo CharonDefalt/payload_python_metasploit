@@ -12,7 +12,7 @@
 
 pip install PyObfuscator
 
-Optional : if you want you can change it to exe file after obfuscation it for doing this read it (https://github.com/CharonDefalt/Bad-usb)
+Optional : if you want you can change it to exe file after obfuscation it for doing this read it ( https://github.com/CharonDefalt/Bad-usb OR https://github.com/CharonDefalt/python-keylogger )
 
 # Create payload
 
