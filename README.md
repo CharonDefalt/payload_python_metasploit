@@ -1,12 +1,12 @@
 # Create python trojan with Metasploit and bypass all antiviruses (READ THIS AS CODE)
 
-1 : install python and metasploit or using kali linux
+1 : Install python and metasploit or using kali linux
 
 2 : Next install requreiments
 
-3 : create payload and obfuscation it 
+3 : Create payload and obfuscation it 
 
-4 : build up listener with metasploit and send payload obfuscation to target 
+4 : Build up listener with metasploit and send payload obfuscation to target 
 
 # Requreiments 
 
@@ -31,6 +31,6 @@ set lport YOURPORT
 run
 
 # Final Part
-now send this file ( payload_obfu.py ) to target
+Now send this file ( payload_obfu.py ) to target
 
 
